@@ -1,28 +1,44 @@
 <h1 align="center">
-  <b>✨ 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞ - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e25a563619c653328830d.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞ - ᴍᴜsɪᴄ</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
 </h6>
 
-<h3 align="cent">
+<h3 align="center">
+  <b>A Smooth & Fast Telegram Voice Chat Music Streaming Bot based on Pyrogram & PyTgCalls.</b>
+</h3>
 
 ------
 <h3 align="center">
 
+  [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
   
   ![GitHub forks](https://img.shields.io/github/forks/The-HellBot/Music?style=social)
   ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Music?style=social)
-   
+  
+  ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
+  ![Python](https://img.shields.io/badge/Python-v3.11-white?style=social&logo=python)
+  
+  ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/Music?&style=social&logo=hyper)
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
+  
+  [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+  
 </h3>
 
 ------
-## 🎶 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞ - ᴍᴜsɪᴄ !
+## 🎶 HellBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
+
+🎶 HellBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
+
+This is a light weight source, as a result it gives faster and better performance.
 
 - ❤️ Features:
   - Audio+Video support.
@@ -31,12 +47,26 @@
   - Smooth and fast.
   - Less Bugs.
   - Global Leaderboard support.
+> More features are listed at [docs.hellbot.tech](https://docs.hellbot.tech/)
 
-------
+### 📣 Support
+- Found a bug? Or need help with something?
+
+> Fell free to reach us at [@HellBot_Chats](https://t.me/HellBot_Chats) to report a bug or get assistance to your problem.
+
+> We will appreciate feature requests from you all.
+
+> Pull Requests regarding new feature or bug fixing are appriciated.
+
+━━━━━━━━━━━━━━━━━━━━
+
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
-<p align="center"><a href="https://heroku.com/deploy?template=https://https://github.com/badmunda011/Badmundamusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-Tutorial coming soon.`
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/badmunda011/Badmundamusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ ━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 Deploy Locally
+
+`Tutorial coming soon.`
 
 ------
 ## 🎛️ Variables
@@ -79,17 +109,10 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ------
-------
-## 🚀 Deploy Locally
-
-`Tutorial coming soon.`
-
-------
-
-
 ## 🍀 Credits
 
-
-- 💖 [🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞ - ](https://t.me/II_BAD_MUNDA_II)
+- 💖 All the Dependencies
+- 💖 [ProRaiden](https://github.com/ProRaiden)
+- 💖 [HellBoy](https://github.com/HellBoy-OP)
 
 ------
