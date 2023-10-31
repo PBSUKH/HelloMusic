@@ -68,9 +68,9 @@ class Player:
         else:
             try:
                 if edit:
-                    await message.edit_text("Downloading ...")
+                    await message.edit_text("👻")
                 else:
-                    await message.reply_text("Downloading ...")
+                    await message.reply_text("Downloading 😈")
                 file_path = await ytube.download(
                     video_id, True, True if vc_type == "video" else False
                 )
